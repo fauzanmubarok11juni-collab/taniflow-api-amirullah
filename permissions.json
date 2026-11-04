@@ -1,0 +1,6 @@
+{
+  "owner":  { "dashboard": "R", "dashboard_profit": "R", "cash": "RCUD", "transfer": "RCUD", "stock": "RCUD", "opname": "RC", "items": "RCUD", "lands": "RCUD", "accounts": "RCUD", "categories": "RCUD", "users": "RCUD", "reports": "R", "audit": "R" },
+  "admin":  { "dashboard": "R", "dashboard_profit": "",  "cash": "RC",   "transfer": "RC",   "stock": "RC",   "opname": "",   "items": "R",    "lands": "R",    "accounts": "R",    "categories": "R",    "users": "",     "reports": "",  "audit": "" },
+  "gudang": { "dashboard": "",  "dashboard_profit": "",  "cash": "",     "transfer": "",     "stock": "RC",   "opname": "RC", "items": "R",    "lands": "R",    "accounts": "",     "categories": "",     "users": "",     "reports": "",  "audit": "" },
+  "mandor": { "dashboard": "",  "dashboard_profit": "",  "cash": "RC",   "transfer": "",     "stock": "RC",   "opname": "",   "items": "R",    "lands": "R",    "accounts": "",     "categories": "R",    "users": "",     "reports": "",  "audit": "" }
+}
