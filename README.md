@@ -1,3 +1,4 @@
+\HEAD
 # TaniFlow API — Tahap M1
 
 Backend Node.js (Fastify + TypeScript) + PostgreSQL untuk aplikasi TaniFlow.
@@ -112,3 +113,6 @@ cash_transactions, stock_movements. Tahap 2 (musim tanam, aktivitas lahan, opnam
 <!-- $dev = [guid]::NewGuid().ToString()
 $body = @{ username='amirullah'; secret='avii.0501'; device_id=$dev; device_name='tes' } | ConvertTo-Json
 Invoke-RestMethod -Method Post -Uri http://localhost:3000/api/v1/auth/login -ContentType 'application/json' -Body $body -->
+\
+# taniflow-amirullah
+\336278645dc42db876ba6ae4b52ea8b5ff1427e4
